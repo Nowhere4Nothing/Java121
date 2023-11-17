@@ -1,0 +1,7 @@
+CSCI213;Java Programming & Object Oriented Design;6;This subject provides an introduction to the Java language and some of its standard class libraries,you will have experience with object oriented design and implementation techniques;CSCI124 or CSCI121 or CSCI192;3;2
+CSCI124;Applied Programming;6;This subject develops a thorough understanding of program design using data structures. It extends CSCI114 and presents pointers,dynamic memory management and exception handling;CSCI114 & CSCI103 or CSCI111 & CSCI103;4;2
+CSCI235;Database system;6;This subject investigates three major areas of modern database systems: 1. design of relational databases 2. programming of relational databases;CSIT115;3;2
+CSIT115;Data management and security;6;The subject investigates three major areas of modern data management systems: data modelling,data processing,and data security.;;2;2
+CSIT111;Programming Fundamentals;6;The broad aim of this subject is to develop in students an understanding of the fundamental principles of programming.;;2;2
+CSIT121;Object oriented design and programming;6;The aims of this subject are to consolidate and extend student's knowledge and skills in structured programming and to develop their understanding and practice of object oriented programming.;CSIT111 OR ENGG100;2;2
+CSCI251;Advanced programming;6;This subject develops a thorough understanding of advanced programming features,and how to implement them in modern C++.;CSIT121;3;2
